@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "other_entrepreneurship_programs",
+  "info": {
+    "singularName": "other-entrepreneurship-program",
+    "pluralName": "other-entrepreneurship-programs",
+    "displayName": "Other Entrepreneurship Program"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Info": {
+      "type": "richtext"
+    }
+  }
+}
